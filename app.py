@@ -23,7 +23,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 st.title("Welfamily 関係性 診断アプリ")
-st.write("### 〜ふたりの特徴を知り、ふたりの絆を、より良いものへ。〜")
+st.write("### 〜2人の特徴を知り、2人の絆を、より良いものへ〜")
 
 # --- データベース：タイプ解説 ---
 type_info_m = {
