@@ -22,7 +22,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("Welfamily Relations OS Update")
+st.title("Welfamily 関係性 診断アプリ")
 st.write("### 〜ふたりの絆を、最新版へ。〜")
 
 # --- データベース：タイプ解説 ---
