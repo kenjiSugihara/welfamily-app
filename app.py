@@ -1,3 +1,5 @@
+import streamlit as st
+
 # --- ページ設定 ---
 st.set_page_config(page_title="Welfamily Relations OS Update", layout="centered", page_icon="🧡")
 
